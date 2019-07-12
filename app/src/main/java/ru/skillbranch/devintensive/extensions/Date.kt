@@ -1,6 +1,5 @@
-package ru.skillbanch.devintensive.extensions
+package ru.skillbranch.devintensive.extensions
 
-import java.lang.IllegalStateException
 import java.text.SimpleDateFormat
 import java.util.*
 
@@ -30,5 +29,5 @@ enum class TimeUnits{
     SECOND,
     MINUTE,
     HOUR,
-   
+    DAY
 }

@@ -1,6 +1,4 @@
-package ru.skillbanch.devintensive.utils
-
-import android.app.backup.FullBackupDataOutput
+package ru.skillbranch.devintensive.utils
 
 object Utils {
     fun parseFullName(fullName:String?):Pair<String?, String?> {
